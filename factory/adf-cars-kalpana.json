@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-kalpana",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f45a455-c3ec-4198-a2d4-14dcc6a2be8d",
+		"tenantId": "24457472-d83c-4ae5-b186-e62fb519cd9a"
+	}
+}
